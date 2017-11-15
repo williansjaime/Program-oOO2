@@ -1,0 +1,12 @@
+C:\Users\W\Desktop\Charles\aula02052017\Receitas\Receitas\bin\Debug\Receitas.exe.config
+C:\Users\W\Desktop\Charles\aula02052017\Receitas\Receitas\bin\Debug\Receitas.exe
+C:\Users\W\Desktop\Charles\aula02052017\Receitas\Receitas\bin\Debug\Receitas.pdb
+C:\Users\W\Desktop\Charles\aula02052017\Receitas\Receitas\bin\Debug\EntityFramework.dll
+C:\Users\W\Desktop\Charles\aula02052017\Receitas\Receitas\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\W\Desktop\Charles\aula02052017\Receitas\Receitas\bin\Debug\EntityFramework.xml
+C:\Users\W\Desktop\Charles\aula02052017\Receitas\Receitas\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\W\Desktop\Charles\aula02052017\Receitas\Receitas\obj\Debug\Receitas.csprojResolveAssemblyReference.cache
+C:\Users\W\Desktop\Charles\aula02052017\Receitas\Receitas\obj\Debug\Receitas.exe
+C:\Users\W\Desktop\Charles\aula02052017\Receitas\Receitas\obj\Debug\Receitas.pdb
+C:\Users\W\Desktop\Charles\aula02052017\Receitas\Receitas\bin\Debug\Receitas.exe.CodeAnalysisLog.xml
+C:\Users\W\Desktop\Charles\aula02052017\Receitas\Receitas\bin\Debug\Receitas.exe.lastcodeanalysissucceeded
